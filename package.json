@@ -1,7 +1,7 @@
 {
   "name": "yelpcamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "YelpCamp is a camping site review and information site. It is based on the \"Web developer course 2022 by Colt Steele\" course on Udemy.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,8 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
-    "mongoose": "^6.2.9",
+    "mongoose": "^6.2.10",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {}
 }
