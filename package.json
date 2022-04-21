@@ -19,11 +19,11 @@
   "homepage": "https://github.com/maximilianspiess/YelpCamp#readme",
   "dependencies": {
     "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
     "express": "^4.17.3",
     "method-override": "^3.0.0",
     "mongoose": "^6.2.10",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.15"
-  },
-  "devDependencies": {}
+  }
 }
